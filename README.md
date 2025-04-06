@@ -1,4 +1,5 @@
-# Interactive-HR-Analytics-Dashboard
+Tableau # Interactive-HR-Analytics-Dashboard
+
 This project presents a comprehensive HR dashboard designed to visualize and analyze key workforce metrics in an intuitive and interactive format.
 ![image](https://github.com/user-attachments/assets/7de62637-3347-4ba6-835d-2a7cbce8af65)
 
